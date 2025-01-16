@@ -1,0 +1,19 @@
+associação é criar um relacionamento entre classes e objetos esse relacinamento pode ser
+unidirecional ou bidimensional como na tabela do SQL de um pra pra um ou um pra muitos
+
+exemplos
+
+1 jogador -- 1 time 
+1 time    -- N jogadores
+1 jogador -- 1 Personagem
+Estudante N -- N Curso
+
+
+Relacionamento Unidirecional muitos pra um
+
+1 Escola - N professores
+
+Atráves da escola podemos ter vários professores,pórem um professor só pode ter trabalhar em uma escola
+
+Relacionamento Bidirecional 
+
